@@ -1,1 +1,3 @@
 # bookz
+
+License: GPLv3
